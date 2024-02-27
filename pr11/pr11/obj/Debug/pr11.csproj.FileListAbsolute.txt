@@ -1,0 +1,10 @@
+F:\practice_01\pr11\pr11\bin\Debug\pr11.exe.config
+F:\practice_01\pr11\pr11\bin\Debug\pr11.exe
+F:\practice_01\pr11\pr11\bin\Debug\pr11.pdb
+F:\practice_01\pr11\pr11\obj\Debug\pr11.csproj.AssemblyReference.cache
+F:\practice_01\pr11\pr11\obj\Debug\pr11.Properties.Resources.resources
+F:\practice_01\pr11\pr11\obj\Debug\pr11.csproj.GenerateResource.cache
+F:\practice_01\pr11\pr11\obj\Debug\pr11.csproj.CoreCompileInputs.cache
+F:\practice_01\pr11\pr11\obj\Debug\pr11.exe
+F:\practice_01\pr11\pr11\obj\Debug\pr11.pdb
+F:\practice_01\pr11\pr11\obj\Debug\pr11.Sudoku.resources
